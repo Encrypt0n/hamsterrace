@@ -1,0 +1,70 @@
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de gokkers.csprojResolveAssemblyReference.cache
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.Cache
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
+C:\Users\aless\Desktop\Nieuwe map\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de gokkers.csprojResolveAssemblyReference.cache
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.Cache
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+C:\Users\aless\Desktop\Nieuwe map - kopie\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csprojResolveAssemblyReference.cache
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.Cache
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+C:\Users\aless\Desktop\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csprojResolveAssemblyReference.cache
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.Cache
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+C:\Users\D228210\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+C:\Users\ASUS\Documents\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csprojAssemblyReference.cache
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.cache
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+D:\Radius\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe.config
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.exe
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\bin\Debug\de gokkers.pdb
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csprojAssemblyReference.cache
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Form1.resources
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de_gokkers.Properties.Resources.resources
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.GenerateResource.cache
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.csproj.CoreCompileInputs.cache
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.exe
+D:\Radius\OneDrive - ROC West-Brabant\Leerjaar1\Periode3\Project\De gokkers\de gokkers\de gokkers\obj\Debug\de gokkers.pdb
